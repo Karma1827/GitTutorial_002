@@ -1,2 +1,2 @@
 ﻿  GitTutorial.cpp
-  GitTutorial.vcxproj -> C:\Users\User\Desktop\GitTutorial\GitTutorial\Debug\GitTutorial.exe
+LINK : fatal error LNK1168: 無法開啟 C:\Users\User\Desktop\GitTutorial\GitTutorial\Debug\GitTutorial.exe 進行寫入
